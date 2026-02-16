@@ -1,16 +1,70 @@
-## Hi there 👋
+<!-- Premium GitHub Profile README -->
 
-<!--
-**FatimaSayyed27/FatimaSayyed27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm AQIB AHAMAD</h1>
+<h3 align="center">Frontend Developer | BCA Student | Aspiring Full-Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about building responsive, user-focused web applications using modern technologies.
+  <br/>
+  Currently sharpening my frontend skills while moving towards backend development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java,python" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🌦 Weather App
+🔹 API-based real-time weather application  
+🔹 Fully responsive design  
+🔹 Clean and modern UI  
+
+### 🎵 Music Search App
+🔹 Integrated iTunes API  
+🔹 Dynamic search functionality  
+🔹 Optimized image rendering  
+
+### 🎨 Responsive Web Projects
+🔹 Multiple landing pages  
+🔹 Mobile-first layouts  
+🔹 Clean UI/UX focused designs  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaSayyed27&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaSayyed27&theme=tokyonight" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+✔ Advanced React Concepts  
+✔ Backend Development  
+✔ API Handling & Clean Project Architecture  
+
+---
+
+## 🎯 Career Goal
+
+💼 Open to **Internship** and **Entry-Level Frontend Developer** opportunities.  
+🚀 Focused on continuous growth and building real-world scalable projects.  
+
+---
+
+<p align="center">
+  ⭐ Consistent Learner | 💻 Problem Solver | 🚀 Growth Mindset
+</p>
