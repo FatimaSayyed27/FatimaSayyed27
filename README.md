@@ -1,6 +1,6 @@
 <!-- Premium GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm AQIB AHAMAD</h1>
+<h1 align="center">Hi 👋, I'm FATIMA SAYYED</h1>
 <h3 align="center">Frontend Developer | BCA Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java,python,DSA" />
 </p>
 
 ---
