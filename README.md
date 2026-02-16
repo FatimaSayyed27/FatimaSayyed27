@@ -1,44 +1,44 @@
 <!-- Premium GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm FATIMA SAYYED</h1>
-<h3 align="center">Frontend Developer | BCA Student | Aspiring Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Fatima Sayyed</h1>
+<h3 align="center">Frontend Developer | BCA Student | Future Full-Stack Developer</h3>
 
 <p align="center">
-  Passionate about building responsive, user-focused web applications using modern technologies.
+  I build responsive, user-friendly web applications using modern frontend technologies.
   <br/>
-  Currently sharpening my frontend skills while moving towards backend development.
+  Passionate about clean UI, performance, and continuous learning.
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java,python,DSA" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java,python" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🌦 Weather App
-🔹 API-based real-time weather application  
-🔹 Fully responsive design  
-🔹 Clean and modern UI  
+### 🌦 Weather App  
+✔ Real-time weather data using API  
+✔ Fully responsive design  
+✔ Clean & modern UI  
 
-### 🎵 Music Search App
-🔹 Integrated iTunes API  
-🔹 Dynamic search functionality  
-🔹 Optimized image rendering  
+### 🎵 Music Search App  
+✔ Integrated iTunes API  
+✔ Dynamic search functionality  
+✔ Optimized media display  
 
-### 🎨 Responsive Web Projects
-🔹 Multiple landing pages  
-🔹 Mobile-first layouts  
-🔹 Clean UI/UX focused designs  
+### 🎨 Responsive Web Projects  
+✔ Landing pages & UI designs  
+✔ Mobile-first layouts  
+✔ Structured and clean code  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FatimaSayyed27&show_icons=true&theme=tokyonight" />
@@ -52,16 +52,16 @@
 
 ## 📚 Currently Learning
 
-✔ Advanced React Concepts  
-✔ Backend Development  
-✔ API Handling & Clean Project Architecture  
+• Advanced React  
+• Backend Development  
+• Clean Architecture & API Handling  
 
 ---
 
 ## 🎯 Career Goal
 
-💼 Open to **Internship** and **Entry-Level Frontend Developer** opportunities.  
-🚀 Focused on continuous growth and building real-world scalable projects.  
+Open to **Internship** and **Entry-Level Frontend Developer** opportunities.  
+Focused on growth, consistency, and building real-world projects.
 
 ---
 
