@@ -1,70 +1,191 @@
-<!-- Premium GitHub Profile README -->
-
 <h1 align="center">Hi 👋, I'm Fatima Sayyed</h1>
-<h3 align="center">Frontend Developer | BCA Student | Future Full-Stack Developer</h3>
+
+<h3 align="center">
+💻 BCA Student | Python & Django Developer | React Developer
+</h3>
 
 <p align="center">
-  I build responsive, user-friendly web applications using modern frontend technologies.
-  <br/>
-  Passionate about clean UI, performance, and continuous learning.
+Passionate about building modern, scalable, and user-friendly web applications while continuously improving my programming and problem-solving skills.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,java,python" />
+- 🎓 BCA Student at **Lucknow University**
+- 💻 Passionate about **Web Development**
+- 🌱 Currently learning **React, Django REST Framework & Data Structures**
+- 🚀 Interested in **Full-Stack Web Development**
+- 💼 Open to **Internship Opportunities**
+- ⚡ I enjoy transforming ideas into real-world web applications
+
+---
+
+# 🚀 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+# 🌟 Featured Projects
 
-### 🌦 Weather App  
-✔ Real-time weather data using API  
-✔ Fully responsive design  
-✔ Clean & modern UI  
+## 🌿 Flora Cure
+### AI-Powered Plant Disease Detection System
 
-### 🎵 Music Search App  
-✔ Integrated iTunes API  
-✔ Dynamic search functionality  
-✔ Optimized media display  
+An intelligent web application that detects plant diseases using Machine Learning and Django, helping users identify diseases from leaf images and receive treatment suggestions.
 
-### 🎨 Responsive Web Projects  
-✔ Landing pages & UI designs  
-✔ Mobile-first layouts  
-✔ Structured and clean code  
+### ✨ Features
+
+- 🌱 AI-powered disease prediction
+- 📷 Leaf image upload
+- 🤖 Machine Learning integration
+- 🔐 User Authentication
+- 📊 Disease details with treatment suggestions
+- 📱 Responsive Design
+
+**Tech Stack**
+
+`Python` • `Django` • `Machine Learning` • `SQLite` • `HTML` • `CSS` • `JavaScript`
 
 ---
 
-## 📈 GitHub Activity
+## 🛍️ SHOP HAVEN
+### Modern E-Commerce Frontend
+
+A premium shopping website developed using React and Vite with a clean UI and responsive user experience.
+
+### ✨ Features
+
+- 🛒 Shopping Cart
+- 👜 Brand Collections
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+- 🎨 Modern UI
+
+**Tech Stack**
+
+`React` • `JavaScript` • `CSS3` • `Vite`
+
+🔗 **Live Demo**
+
+https://shop-haven-ten.vercel.app/
+
+---
+
+## 🌦️ Weather App
+
+A weather application that provides real-time weather information using a public API.
+
+**Features**
+
+- Live Weather Updates
+- Search by City
+- Responsive Design
+
+---
+
+## 🎵 Music Search App
+
+A music search application integrated with the iTunes API.
+
+**Features**
+
+- Dynamic Search
+- Album Artwork
+- Audio Preview
+
+---
+
+# 📚 Currently Learning
+
+- ⚛️ Advanced React
+- 🌐 Django REST Framework
+- 🧠 Data Structures & Algorithms
+- 🗄️ SQL Optimization
+- 🔗 REST API Development
+
+---
+
+# 🎯 Career Objective
+
+I am passionate about software development and continuously learning modern technologies.
+
+Currently looking for internship opportunities where I can contribute, learn from experienced developers, and grow into a skilled Full-Stack Software Engineer.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatimaSayyed27&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FatimaSayyed27&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaSayyed27&layout=compact&theme=tokyonight"/>
+
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaSayyed27&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=FatimaSayyed27&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 🤝 Connect With Me
 
-• Advanced React  
-• Backend Development  
-• Clean Architecture & API Handling  
+<p>
 
----
+💼 LinkedIn
 
-## 🎯 Career Goal
+https://www.linkedin.com/in/fatimasayyed27/
 
-Open to **Internship** and **Entry-Level Frontend Developer** opportunities.  
-Focused on growth, consistency, and building real-world projects.
+📧 Email
+
+fatsayyed27@gmail.com
+
+💻 GitHub
+
+https://github.com/FatimaSayyed27
+
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Consistent Learner | 💻 Problem Solver | 🚀 Growth Mindset
+
+⭐ <b>Code • Learn • Build • Improve • Repeat</b> ⭐
+
 </p>
